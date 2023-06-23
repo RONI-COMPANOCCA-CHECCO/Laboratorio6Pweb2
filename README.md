@@ -129,6 +129,7 @@
 ***Documentación de Django*** (https://docs.djangoproject.com/es/3.2/)
 
 Un **framework** es una abstracción en la cual se puede reusar código y funcionalidades adaptándolos a nuestras necesidades.
+
 Un **modelo** en un framework se suele referir a los datos y su organización
 Una vista permite apreciar el resultado de la lectura de una tabla incluida en una página web.
 
@@ -138,7 +139,7 @@ Una vista permite apreciar el resultado de la lectura de una tabla incluida en u
 2. Siga los pasos del video para poder implementar la aplicación de Destinos turísticos
 3. Use git y haga los commits necesarios para manejar correctamente la aplicación.
 
-V. Ejercicios Propuestos
+## 8. Ejercicios Propuestos
 
 1. Deberán replicar la actividad del video donde se obtiene una plantilla de una aplicación de Destinos turísticos y adecuarla a un proyecto en blanco Django.
 2. Luego trabajar con un modelo de tabla DestinosTuristicos donde se guarden nombreCiudad, descripcionCiudad,imagenCiudad, precioTour, ofertaTour (booleano). Estos destinos turísticos deberán ser agregados en una vista dinámica utilizando tags for e if.
@@ -147,12 +148,14 @@ V. Ejercicios Propuestos
 5. Eres libre de agregar CSS para decorar tu trabajo.
 6. Ya sabes que el trabajo con Git es obligatorio. Revisa el avance de la teoría Django parte4
 
-## 11. Referencias
+## 9. Referencias
 
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
 - https://github.com/mdn/django-locallibrary-tutorial
 - https://github.com/rescobedoq/pw2/tree/main/labs/lab05
 - William S. Vincent. (2022). Django for Beginners: Build websites with Python. Django 4.0. leanpub.com. [URL]
+
+#
 
 [license]: https://img.shields.io/github/license/rescobedoq/pw2?label=rescobedoq
 [license-file]: https://github.com/rescobedoq/pw2/blob/main/LICENSE

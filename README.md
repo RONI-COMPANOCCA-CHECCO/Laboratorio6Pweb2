@@ -185,6 +185,21 @@ Una vista permite apreciar el resultado de la lectura de una tabla incluida en u
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jspw0gZ/Admin4.jpg" alt="Admin4" border="0"></a>
 
+***pgAdmin 4***
+
+<a href="https://ibb.co/jGNQbb7"><img src="https://i.ibb.co/NpvJttw/apag1.jpg" alt="apag1" border="0"></a>
+
+***Pagina web completa***
+
+<a href="https://ibb.co/FWXzQ3B"><img src="https://i.ibb.co/8Bb9ysj/apag2.jpg" alt="apag2" border="0"></a>
+<a href="https://ibb.co/FH721xh"><img src="https://i.ibb.co/VwBRGjL/apag3.jpg" alt="apag3" border="0"></a>
+<a href="https://ibb.co/n32GZjF"><img src="https://i.ibb.co/VHy1rTs/apag4.jpg" alt="apag4" border="0"></a>
+<a href="https://ibb.co/VS1t1j4"><img src="https://i.ibb.co/4Tq7qmr/apag5.jpg" alt="apag5" border="0"></a>
+<a href="https://ibb.co/cQKy3pX"><img src="https://i.ibb.co/XtfWLdk/apag6.jpg" alt="apag6" border="0"></a>
+<a href="https://ibb.co/cQKy3pX"><img src="https://i.ibb.co/XtfWLdk/apag6.jpg" alt="apag6" border="0"></a>
+<a href="https://ibb.co/XV24m9b"><img src="https://i.ibb.co/GFxJgX0/apag7.jpg" alt="apag7" border="0"></a>
+<a href="https://ibb.co/DM4xwJz"><img src="https://i.ibb.co/yk0wg9d/apag8.jpg" alt="apag8" border="0"></a>
+
 ## 9. Referencias
 
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website

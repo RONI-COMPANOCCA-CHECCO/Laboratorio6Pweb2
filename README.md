@@ -148,6 +148,39 @@ Una vista permite apreciar el resultado de la lectura de una tabla incluida en u
 5. Eres libre de agregar CSS para decorar tu trabajo.
 6. Ya sabes que el trabajo con Git es obligatorio. Revisa el avance de la teoría Django parte4
 
+***Empezando aseguir los pasos del video***
+<a href="https://ibb.co/tQDRZGL"><img src="https://i.ibb.co/KbWnNPK/aimagen1.jpg" alt="aimagen1" border="0"></a>
+
+***Continuando con los pasos del video***
+<a href="https://ibb.co/zsNnNyr"><img src="https://i.ibb.co/b17W7SP/aimagen2.jpg" alt="aimagen2" border="0"></a>
+
+***Familiarizando con Django ejemplo 1***
+<a href="https://ibb.co/D50c9C6"><img src="https://i.ibb.co/ChRCb7X/aimagen3.jpg" alt="aimagen3" border="0"></a>
+
+***Familiarizando con Django ejemplo 2***
+<a href="https://ibb.co/yhNq4Xy"><img src="https://i.ibb.co/GsdRH02/aimagen4.jpg" alt="aimagen4" border="0"></a>
+
+***Iniciando el proyecto sin estilos y sin dinamica***
+<a href="https://ibb.co/txsDMZK"><img src="https://i.ibb.co/2std78h/aimagen5.jpg" alt="aimagen5" border="0"></a>
+
+***Nuestra pagina web con css y js***
+<a href="https://ibb.co/wRHT039"><img src="https://i.ibb.co/TkXZvpV/aimagen6.jpg" alt="aimagen6" border="0"></a>
+
+***Segmento del codigo fuente index.html***
+<a href="https://ibb.co/qFrWrpW"><img src="https://i.ibb.co/5xRnRLn/aeaea1.jpg" alt="aeaea1" border="0"></a>
+
+***codigo views.py***
+<a href="https://ibb.co/MS03dx0"><img src="https://i.ibb.co/PjHfkvH/aeaea2.jpg" alt="aeaea2" border="0"></a>
+
+***codigo models.py***
+<a href="https://ibb.co/hF7412J"><img src="https://i.ibb.co/xqCB8zt/aeaea3.jpg" alt="aeaea3" border="0"></a>
+
+***La pagina web***
+<a href="https://ibb.co/5xV5RFb"><img src="https://i.ibb.co/93jqrtQ/aeaea4.jpg" alt="aeaea4" border="0"></a>
+
+***pgAdmin4 instalando***
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Jspw0gZ/Admin4.jpg" alt="Admin4" border="0"></a>
+
 ## 9. Referencias
 
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website

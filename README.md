@@ -170,15 +170,19 @@ Una vista permite apreciar el resultado de la lectura de una tabla incluida en u
 <a href="https://ibb.co/qFrWrpW"><img src="https://i.ibb.co/5xRnRLn/aeaea1.jpg" alt="aeaea1" border="0"></a>
 
 ***codigo views.py***
+
 <a href="https://ibb.co/MS03dx0"><img src="https://i.ibb.co/PjHfkvH/aeaea2.jpg" alt="aeaea2" border="0"></a>
 
 ***codigo models.py***
+
 <a href="https://ibb.co/hF7412J"><img src="https://i.ibb.co/xqCB8zt/aeaea3.jpg" alt="aeaea3" border="0"></a>
 
 ***La pagina web***
+
 <a href="https://ibb.co/5xV5RFb"><img src="https://i.ibb.co/93jqrtQ/aeaea4.jpg" alt="aeaea4" border="0"></a>
 
 ***pgAdmin4 instalando***
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jspw0gZ/Admin4.jpg" alt="Admin4" border="0"></a>
 
 ## 9. Referencias
